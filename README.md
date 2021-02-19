@@ -1,2 +1,2 @@
 # PacmanClone
-Juego Desarrolado en Game Maker Studio
+Juego Desarrollado en Game Maker Studio
